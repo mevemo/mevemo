@@ -8,8 +8,8 @@ I'm an interested human with a wide range of passions. Beyond coding, I'm intrig
 
 ## Skills 🛠️
 
-- **Languages**: Python, Mojo, Java, JavaScript, C,
-- **Databases**: PostgreSQL, MySQL, SQLAlchemy
+- **Languages**: Python, Bash, JavaScript, C, Java,
+- **Databases**: Postgresql, SQLite, MySQL
 
 ## Collaboration 💞️
 
