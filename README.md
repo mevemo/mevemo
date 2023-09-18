@@ -17,7 +17,7 @@ I'm always looking to collaborate on interesting projects. If you have an idea o
 
 ## Contact Me 📫
 
-You can reach me at info@mevemo.de. Whether you have a question, need help with your projects, or just want to chat about technology, I'm always happy to connect.
+You can reach me at info[at]mevemo.de. Whether you have a question, need help with your projects, or just want to chat about technology, I'm always happy to connect.
 
 ## Contributions 🌍
 
