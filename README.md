@@ -11,7 +11,7 @@ I'm an interested human with a wide range of passions. Beyond coding, I'm intrig
 - **Languages**: Python, Bash, JavaScript, C, Java,
 - **Databases**: Postgresql, SQLite, MySQL
 
-## Collaboration 💞️
+## Collaboration ☯️
 
 I'm always looking to collaborate on interesting projects. If you have an idea or if you need a helping hand with your projects, don't hesitate to reach out. I believe in the power of collaboration and am always excited to work with others and learn something new.
 
