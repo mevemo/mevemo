@@ -1,4 +1,4 @@
-# Hello, I'm @mevemo! 👋
+# Hello friend,
 
 I'm a professional software developer based in Northern Germany. I have a diverse background with studies in physics, design, and media-science, and I earned my computer science expert in application development in early 2023. I have a passion for problem-solving and specialize in Python, Mojo, JavaScript, and C.
 
